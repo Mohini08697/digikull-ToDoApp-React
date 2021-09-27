@@ -1,0 +1,50 @@
+.main-div{
+  height: 700px;
+  width: 100%;
+  background: blueviolet;
+  display: flex;
+  
+  
+ 
+}
+.center_div{
+  margin-top: 90px;
+  width:25%;
+  height: 500px;
+  background-color: white;
+  box-shadow: 5px 5px 5px 5px black;
+  border-radius: 15px;
+  margin-left: 35%;
+  
+}
+.h1{
+  color: white;
+  background-color:rgb(240, 56, 86);
+  height:60px;
+  text-align: center;
+  
+}
+.input{
+  height:40px;
+  margin-top:5px;
+  width:80%;
+  border: solid 2px black;
+  margin-left: 2%;
+  
+
+}
+.button{
+  height: 40px;
+  width:40px;
+  color:blue;
+  
+
+}
+
+.div5{
+  margin-top: 10px;
+  height:35px;
+  width:300px;
+  background-color: red;
+  color:white;
+}
